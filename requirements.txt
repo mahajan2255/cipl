@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+openpyxl
+python-multipart
+statsmodels
+scikit-learn
+joblib
+matplotlib
+xlsxwriter
+filelock
+scipy
